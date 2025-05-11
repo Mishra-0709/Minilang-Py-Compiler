@@ -1,6 +1,5 @@
 # MiniLang Python Compiler
 
-![image](https://github.com/user-attachments/assets/f25a343e-9adc-466b-a1f9-7924162bb89f)
 ![image](https://github.com/user-attachments/assets/85bfeb0b-d421-4cda-9c16-d6bfedbfe811)
 
 
@@ -33,7 +32,7 @@ MiniLang is a strongly-typed language that supports the following features:
 - **bool**: Boolean values.
 - **string**: String literals.
 
-**###To run and test the interpreter, follow these steps:**
+**To run and test the interpreter, follow these steps:**
 -git clone https://github.com/Mishra-0709/Minilang-Py-Compiler.git
 cd Minilang-Py-Compiler
 -Install any necessary dependencies (if any). This interpreter doesn't require complex installations, just ensure Python 3.x is available.
@@ -41,6 +40,7 @@ cd Minilang-Py-Compiler
 -MiniLang Interpreter
 Type 'exit' to quit.
 >>> 
+![image](https://github.com/user-attachments/assets/2003a482-085c-439e-8db3-daf95ede9a49)
 
 
 **THANK YOU**
